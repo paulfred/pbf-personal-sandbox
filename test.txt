@@ -1,0 +1,6 @@
+
+Something that is easier for me to edit on my chromebook than vi.
+
+I don't think it's possible to push directly from github, so I'd still need to push from EC2,
+and the fact that each save creates a commit doesn't fit well with normal development.
+So, it's an experiment that may not actually bear out as worthwhile.
